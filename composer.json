@@ -1,0 +1,10 @@
+{
+	"name": "Curso de Programación Orientada a Objetos",
+
+	"autoload": {
+
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
