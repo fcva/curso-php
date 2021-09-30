@@ -1,10 +1,9 @@
 {
-	"name": "Curso de Programación Orientada a Objetos",
+	"name": "curso/php",
 
 	"autoload": {
-
-        "psr-4": {
-            "App\\": "app/"
-        }
+		"psr-4": {
+			"App\\": ["app/"]
+		}
     }
 }
